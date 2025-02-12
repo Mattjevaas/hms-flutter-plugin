@@ -43,6 +43,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.huawei.hms:maps:6.11.2.301'
+    implementation 'com.huawei.hms:maps:5.2.0.301'
     implementation 'androidx.interpolator:interpolator:1.0.0'
 }
